@@ -1,0 +1,50 @@
+@media screen and (min-width:750px){
+    .Enlaces-ul{
+        margin-top: -5rem;
+    }
+    .card-cont{
+        display: flex; justify-content: space-between;
+    }
+    .card{
+        border: none;
+        flex-direction: row;
+        display: flex; justify-content: space-between;
+    }
+    .card p{
+        border-right: solid #C79595;
+        border-bottom: none ;
+    }
+    .Serv-cont{
+        display: flex; justify-content: space-between;
+        flex-direction: column;
+    }
+    .Serv-cont-div-left{
+        display: flex; justify-content: right;
+        padding-left: 0rem;
+        margin-top: -3rem;
+    }
+    .Serv-cont-div-right{
+        display: flex; justify-content: left;
+        padding-right: 0rem;
+    
+    }
+    .Serv-cont-div-up{
+       margin-right: 10rem;
+    
+    }
+    .Serv-cont-div-down{
+        margin-left: 10rem;
+
+    }
+    .Opc-cont{
+        padding-left: 0px;
+    }
+    .Logo-img{margin-left: 2rem;}
+    .Enlaces-ul-footer{
+        display: flex; justify-content: space-between;
+        margin-left: 20px;
+    }
+    .Enlaces-ul-footer li{
+        padding: 5px;
+    }
+}

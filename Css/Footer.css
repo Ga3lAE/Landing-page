@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300;400&display=swap');
+footer{
+    background-color: #6C4A4A;
+    padding: 1rem;
+    display: flex; justify-content: space-between; align-items: center;
+}
+.Opc-cont{
+    padding-left: 5rem;
+}
+.Enlaces-ul-footer li{
+    list-style: none;
+}
+.Enlaces-ul-footer li a{
+    text-decoration: none;
+    font-family: 'Oswald', sans-serif;
+    color: #C79595;
+
+}
+.social-media{
+    padding-right: 3rem;
+}
+.social-media img{
+    padding-left: 25px; padding-right: 25px;
+}

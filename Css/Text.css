@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:ital,wght@0,700;1,300&display=swap');
+main{
+    display: flex; justify-content: center; align-items: center;
+}
+.card-cont{
+    height: 60vh;
+    display: flex; justify-content: center; align-items: center;
+    padding-top: 5rem;
+}
+.card{
+    width: 70vh;
+    flex-wrap: wrap;
+    display: flex; justify-content: center; align-items: center;
+    margin-top: -8rem;
+    font-family:'Open Sans Condensed', sans-serif;
+    color: #6C4A4A;
+    border: solid #C79595;
+    padding: 1.5rem;padding-top: 0rem; padding-bottom: 1rem;
+}
+.card p{
+    border-bottom: solid #C79595;
+}
+.card img{
+    width: 70%;
+}
